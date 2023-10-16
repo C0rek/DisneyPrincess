@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyPrincess.Android", "DisneyPrincess\DisneyPrincess.Android\DisneyPrincess.Android.csproj", "{915B55E4-78FD-48F5-9C8F-5CC7083414C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyPrincess", "DisneyPrincess\DisneyPrincess\DisneyPrincess.csproj", "{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915B55E4-78FD-48F5-9C8F-5CC7083414C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5EA0A2-87D1-4158-8B03-6B62524D3B4C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A359DFA2-72C4-4A5E-90CA-0643BAB7A15B}
+	EndGlobalSection
+EndGlobal
